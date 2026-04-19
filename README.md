@@ -3,8 +3,8 @@
 ## Informações Gerais
 
 - Nome: Guilherme Matheus Araujo
--Matricula: 927329
--Proposta de projeto escolhida: Pagina God of War
+- Matricula: 927329
+- Proposta de projeto escolhida: Pagina God of War
 - Breve descrição sobre seu projeto: Desenvolvimento de uma pagina web temática sobre a franquia God of War, focada no 1 jogo.
 
 
