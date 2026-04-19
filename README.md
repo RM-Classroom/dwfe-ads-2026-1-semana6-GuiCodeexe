@@ -1,26 +1,22 @@
-# Trabalho Prático - Semana 04
-
-Dessa vez, vamos escolher uma proposta de projeto para trabalhar.
-
-Nessa atividade, você deverá montar a página inicial do projeto escolhido, a organização do HTML aplicando semântica correta e uso aprimorado do CSS. Leia o enunciado completo no Canvas para mais detalhes.
-
-**IMPORTANTE:** Você deve trabalhar e alterar apenas arquivos dentro da pasta **`public`**. Deixe todos os demais arquivos e pastas desse repositório inalterados. **PRESTE MUITA ATENÇÃO NISSO.**
+# Trabalho Prático - Semana 06
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Guilherme Matheus Araujo
+-Matricula: 927329
+-Proposta de projeto escolhida: Pagina God of War
+- Breve descrição sobre seu projeto: Desenvolvimento de uma pagina web temática sobre a franquia God of War, focada no 1 jogo.
 
 
-## Print do(s) wireframe(s) criado
-> Sugestão, use o Excalidraw para isso. Utilize esse [template básico](https://excalidraw.com/#json=LU-8hwcQEwzk11FwO8Opo,qPU9K6cNUEzlXzwOuKMIlQ) para você começar. 
+## Prints da Interface
 
-<<  COLOQUE A IMAGEM AQUI >>
+### Versão Desktop
+<img width="2559" height="1316" alt="image" src="https://github.com/user-attachments/assets/4a1c00fd-2d5d-49ab-b91f-e091f1dbfe1b" />
+<img width="2560" height="587" alt="image" src="https://github.com/user-attachments/assets/e7520130-b346-4128-95ae-7f98a9cfb463" />
 
 
 
-## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+### Versão Mobile
+<img width="776" height="1182" alt="image" src="https://github.com/user-attachments/assets/5dec6b43-7f0d-494c-9578-81a29303404d" />
+<img width="781" height="1000" alt="image" src="https://github.com/user-attachments/assets/51c1e320-8412-4a79-baf7-3421aa11b07a" />
