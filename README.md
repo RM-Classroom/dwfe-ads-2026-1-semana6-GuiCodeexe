@@ -11,7 +11,7 @@
 ## Prints da Interface
 
 ### Versão Desktop
-<img width="2559" height="1316" alt="image" src="https://github.com/user-attachments/assets/4a1c00fd-2d5d-49ab-b91f-e091f1dbfe1b" />
+<img width="2560" height="1193" alt="image" src="https://github.com/user-attachments/assets/38eeda47-8d3a-4f02-ae77-ff74d89b79a4" />
 <img width="2560" height="587" alt="image" src="https://github.com/user-attachments/assets/e7520130-b346-4128-95ae-7f98a9cfb463" />
 
 
